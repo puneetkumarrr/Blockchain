@@ -4,7 +4,6 @@ import { Blockchain_backend } from '../../declarations/Blockchain_backend';
 var numSquares = 6;
 var colors = [];
 var pickedColor;
-var attempts = 0;
 var rightGuess = 0;
 var wrongGuess = 0;
 
