@@ -74,7 +74,7 @@ button:hover {
 }
 
 .selected {
-	background-color: #2C8E99;
+	background-color: rgb(44, 44, 153);
 	color: white;
 }
 
